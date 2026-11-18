@@ -8,6 +8,12 @@ Assignment Part 4 - Step 5
 - What are the main features and functionalities?
 - What outputs does the code generate?
 
+1. The R code processes a multi-year wildlife rehabilitation dataset containing intake records for rescued California hummingbirds.
+2. It draws a reproducible random sample of birds using a customized seed and explores categorical versus continuous variables like admission dates and centers.
+3. The script utilizes `dplyr` to clean and group data by attributes such as species groups, age classes, and rehabilitation locations.
+4. Main functionalities include plotting timelines and survival outcomes using `ggplot2` with customized labels, stacked bar charts, and UC Davis school colors.
+5. Finally, the code exports cleaned summary data frames as CSV files and generates visual PDF plots detailing patient trends over time.
+
 ## Project Organization
 ------------
 
