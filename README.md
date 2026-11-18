@@ -1,8 +1,11 @@
 # Template GitHub Repository for EpiPandit Lab
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
-
-Text summarizing your project.
+Assignment Part 4 - Step 5
+: Write a 5-sentence summary about your first assignment on hummingbird data:
+- what does your code do?
+- What are the main features and functionalities?
+- What outputs does the code generate?
 
 ## Project Organization
 ------------
