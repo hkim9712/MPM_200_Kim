@@ -2,7 +2,7 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Assignment Part 4 - Step 5
+### Assignment Part 4 - Step 5
 : Write a 5-sentence summary about your first assignment on hummingbird data:
 - what does your code do?
 - What are the main features and functionalities?
